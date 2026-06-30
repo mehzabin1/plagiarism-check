@@ -1,0 +1,31 @@
+The **Green Revolution** refers to a massive, technology-driven transformation of global agriculture that took place between the 1940s and the late 1960s. Faced with booming global populations and imminent threats of widespread famine—especially in developing nations like India, Pakistan, and Mexico—scientists drastically modernized farming practices to multiply crop yields.
+
+It is credited with saving over one billion people from starvation, though it also came with significant environmental trade-offs.
+
+---
+
+## The Core Strategy: How Yields Skyrocketed
+
+The Green Revolution replaced traditional, low-yield farming methods with a package of industrial agricultural technologies.
+
+The transformation relied primarily on three pillars:
+
+* **High-Yielding Varieties (HYVs):** Led by American scientist **Norman Borlaug**, researchers bred custom, semi-dwarf varieties of wheat and rice. Traditional crops grew tall and fell over under the weight of their own grain if given too much fertilizer. Borlaug's shorter, sturdier varieties could support massive amounts of grain without collapsing.
+* **Chemical inputs:** These new crops were incredibly hungry. To achieve peak performance, they required heavy applications of synthetic nitrogen fertilizers and chemical pesticides to keep bugs and diseases at bay.
+* **Controlled Irrigation:** Instead of relying entirely on unpredictable monsoon rains or seasonal weather, the movement funded major infrastructure projects like dams, canals, and tube wells to provide consistent water.
+
+---
+
+## The Impact: Successes vs. Consequences
+
+The Green Revolution was an undeniable success in terms of raw production, but its long-term impact is highly debated today.
+
+| The Successes (The Positives) | The Consequences (The Negatives) |
+| --- | --- |
+| **Famine Averted:** Global wheat yields doubled between 1960 and 1970. Countries like India transitioned from chronic food shortages to being entirely self-sufficient. | **Environmental Degradation:** Excessive use of synthetic fertilizers depleted soil health over time, and heavy pesticide use poisoned local water tables. |
+| **Lower Food Prices:** The explosion in grain supply made staple foods vastly cheaper worldwide, boosting nutrition across developing regions. | **Water Scarcity:** Intensive irrigation triggered severe depletion of underground aquifers, causing local water tables to drop dangerously low. |
+| **Economic Shifts:** Higher yields turned farming from a struggle for basic survival into a commercial industry, boosting industrial growth. | **Socioeconomic Gaps:** Small farmers who couldn't afford expensive inputs (chemical packs, machinery, seeds) fell into deep debt, widening the gap between rich and poor landowners. |
+
+---
+
+> **The Nobel Peace Prize:** Norman Borlaug received the Nobel Peace Prize in 1970 for his work. During his acceptance speech, he warned that the Green Revolution had only bought humanity a temporary "breathing space" of a few decades to handle the population crisis.
